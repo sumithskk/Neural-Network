@@ -1,4 +1,5 @@
 # Neural-Network from scratch using Python
-In this repository, I will show you how to build a neural network from scratch.
+In this repository, I will show you how to build a neural network from scratch using MNIST handwritten digits data
+
 
 
